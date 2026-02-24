@@ -6,11 +6,15 @@ When you click on him, he performs various actions. If you don't click on him fo
 
 ![Rover](https://github.com/MalwareStudio/Rover-The-Desktop-Assistant/assets/49496834/33050f93-60f8-4e84-8530-89ad17bd5efb)
 
+---
+
 ## Settings
 
 To change the size, **`right-click`** -> **`Change size`** and select the desired size.
 
 To close the program, **`right-click`** -> **`Close`**.
+
+<img src="https://github.com/dleuiajs/Rover-Virtual-Dog/blob/main/imgs/screenshot_settings.png" alt="Settings Screenshot">
 
 ## Disclaimer
 
