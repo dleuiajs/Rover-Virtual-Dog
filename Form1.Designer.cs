@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             components = new System.ComponentModel.Container();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             dog_picture = new PictureBox();
             menu = new ContextMenuStrip(components);
             changeSizeToolStripMenuItem = new ToolStripMenuItem();
@@ -157,6 +158,7 @@
             ClientSize = new Size(80, 80);
             Controls.Add(dog_picture);
             FormBorderStyle = FormBorderStyle.None;
+            Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "Form1";
             ShowInTaskbar = false;
             Text = "VirtualDog";
